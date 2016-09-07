@@ -1,0 +1,6 @@
+framework module Pods_Drink_Safely {
+  umbrella header "Pods-Drink-Safely-umbrella.h"
+
+  export *
+  module * { export * }
+}
